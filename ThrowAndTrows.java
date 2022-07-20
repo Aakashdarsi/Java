@@ -10,6 +10,7 @@ class ThrowAndTrows {
         b = s.nextInt();
         Demo t = new Demo();
         System.out.println(Demo.result(a,b));
+        s.close();
     }
 }
 class Demo {
