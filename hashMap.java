@@ -15,6 +15,8 @@ class hashMap {
 
         // printing all elements in iterator 
         System.out.println(h);
+        System.out.println(h.keySet());
+
 
     }
 }
